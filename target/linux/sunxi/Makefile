@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 ARCH:=arm
 BOARD:=sunxi
-BOARDNAME:=Allwinner A1x/A20/A3x
+BOARDNAME:=Allwinner A1x/A20/A3x/A80/H3
 FEATURES:=fpu usb ext4 display rtc
 CPU_TYPE:=cortex-a8
 CPU_SUBTYPE:=vfpv3
